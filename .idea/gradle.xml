@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption/task" />
+            <option value="$PROJECT_DIR$/Problems/Descending sorting swaps" />
+            <option value="$PROJECT_DIR$/Problems/Max-min sorting" />
+            <option value="$PROJECT_DIR$/Problems/Not only non-negative numbers" />
+            <option value="$PROJECT_DIR$/Problems/Partial sorting" />
+            <option value="$PROJECT_DIR$/Problems/Sorting characters" />
+            <option value="$PROJECT_DIR$/Problems/Swaps" />
+            <option value="$PROJECT_DIR$/Problems/The angle between vectors" />
+            <option value="$PROJECT_DIR$/Problems/The number of operations" />
+            <option value="$PROJECT_DIR$/Problems/The number of required shifts" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

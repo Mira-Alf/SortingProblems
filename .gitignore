@@ -1,0 +1,23 @@
+# Project exclude paths
+/.gradle/
+/Encryption-Decryption/task/build/
+/Encryption-Decryption/task/out/
+/Encryption-Decryption/task/out/production/classes/
+/Problems/Descending sorting swaps/out/
+/Problems/Descending sorting swaps/out/production/classes/
+/Problems/Max-min sorting/out/
+/Problems/Max-min sorting/out/production/classes/
+/Problems/Not only non-negative numbers/out/
+/Problems/Not only non-negative numbers/out/production/classes/
+/Problems/Partial sorting/out/
+/Problems/Partial sorting/out/production/classes/
+/Problems/Sorting characters/out/
+/Problems/Sorting characters/out/production/classes/
+/Problems/Swaps/out/
+/Problems/Swaps/out/production/classes/
+/Problems/The angle between vectors/out/
+/Problems/The angle between vectors/out/production/classes/
+/Problems/The number of operations/out/
+/Problems/The number of operations/out/production/classes/
+/Problems/The number of required shifts/out/
+/Problems/The number of required shifts/out/production/classes/
